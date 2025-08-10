@@ -38,3 +38,10 @@ Runs on an ESP32 or compatible board to control the robot arm hardware:
 - Polls the backend's `get_run_pose.php` text. 
 - Moves the servos accordingly.
 - Calls `update_status.php` to reset the status and servo values to default (idle).
+
+---
+
+## Screenshot
+
+<img src="screenshot1" width = 400>
+<img src="screenshot2" width = 400>
